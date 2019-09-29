@@ -1,0 +1,8 @@
+name: ASDinfo
+main: ASDinfo\Main
+version: 1.0.0
+author: ASDkr
+api: 3.9.0
+commands:
+ 인포:
+  description: 인포 관련명령어 입니다. 
